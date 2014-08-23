@@ -28,5 +28,6 @@ A CRUD practice app using rails
 
 ## Still feel lost 
 
-Tutorials: [Rails Guides](http://guides.rubyonrails.org/routing.html#crud-verbs-and-actions)
-						[SitePoint](http://www.sitepoint.com/building-your-first-rails-application-views-and-controllers/)
+Tutorials:
+* [Rails Guides](http://guides.rubyonrails.org/routing.html#crud-verbs-and-actions)
+* [SitePoint](http://www.sitepoint.com/building-your-first-rails-application-views-and-controllers/)
